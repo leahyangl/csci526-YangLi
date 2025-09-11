@@ -28,6 +28,10 @@
 # Visual Studio cache directory
 .vs/
 
+# Visual Studio settings
+.vscode/
+**/.vscode
+
 # Gradle cache directory
 .gradle/
 
@@ -74,5 +78,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# OS generated files
+.DS_Store
 **/.DS_Store
 
